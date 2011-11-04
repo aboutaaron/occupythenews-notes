@@ -1,4 +1,4 @@
-# San Jose Mercury News - [Debora Peterson](http://twitter.com/#!/deborapeterson)  w/ Angela
+# San Jose Mercury News - [Debora Peterson](http://twitter.com/#!/deborapeterson)
   * Occupy Oakland Landing Page
   * Tumblr to display photos (mock page on actual site)
   * Google+ (works more business audience)
