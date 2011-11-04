@@ -1,8 +1,9 @@
-# BANG/San Jose Merc - [Debora Peterson](http://twitter.com/#!/deborapeterson)  w/ Angela
+# San Jose Mercury News - [Debora Peterson](http://twitter.com/#!/deborapeterson)  w/ Angela
   * Occupy Oakland Landing Page
   * Tumblr to display photos (mock page on actual site)
   * Google+ (works more business audience)
   * Didn't tweet [Whole Foods Dilemma](http://www.ktvu.com/news/news/local/protesters-target-downtown-oakland-bank-branches/nFTCW/) until they could get a quote from the company.
+  * Responsibility of news org to reflect on story after reporting in realtime/using social media
 
 # Mother Jones - [Tasneem Raja](http://twitter.com/#!/tasneemraja)
   * Storify in the newsroom
@@ -14,6 +15,8 @@
     do a lot at once
   * "It's hard for us to know when a Storify is over"
     * tried to create structure with datelines, etc.
+  * Reporter told serialized stories on Twitter — mini narratives
+  * Minute-to-minute reporting is valuable, but not sustainable (on most budgets) — reporting is now changing to analysis and context. 
 
 # Oakland Tribune - [Angela Woodhall](http://twitter.com/#!/angelawoodall)
   * How social media/storify to tell stories
@@ -26,6 +29,7 @@
   * Alt weekly, not well equip to cover breaking news — Storify makes that possible
   * Different perspectives from one account = confusion, thus reporters text tweets to editors
   * Tell reporters to tweet only what they see, not just word of mouth
+  * Keep your audience in mind — report coverage that your niche can understand.
   
 # Oakland Local — [Susan Mernit](http://twitter.com/#!/susanmernit)
   * Community voices (curated content) and professional reporters
@@ -34,6 +38,9 @@
   * Storify/ScribbleLive put up viewpoints we don't endorse (attribution to users)
   * 11 percent of audience 
     * Google Analytics doesn't track WAP (featurephone) browsers?!
+  * Journos becoming amplifiers for citizens — sources become reporters
+    * People understand they are documentarians. And news orgs may want to cite them.
+  * Oakland Local had viral (high traffic) story on OccupyOakland even after SFChronicle and Oakland Tribune published stories first. Readership trusted their voice. 
 
 # HuffPoSF - [Carly Schwatz](http://twitter.com/#!/carlicita)
   * Live blog -> Tweets -> Live blog (create a cycle)
